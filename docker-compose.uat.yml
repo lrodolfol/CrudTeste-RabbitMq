@@ -1,0 +1,75 @@
+version: '3.4'
+
+services:
+    mysql:
+        image: mysql
+        container_name: mysql
+        environment:
+            - MYSQL_ROOT_PASSWORD=teste123
+        networks:
+            - netcreateuser
+        healthcheck:
+            test: ["CMD", "mysqladmin" ,"ping", "-h", "localhost"]
+            timeout: 20s
+            retries: 10
+        ports:
+            - 3306:3306
+
+    rabbitmq:
+        image: rabbitmq:3-management
+        container_name: rabbitmq
+        hostname: rabbitmq
+        environment:
+            - RABBITMQ_DEFAULT_USER=teste
+            - RABBITMQ_DEFAULT_PASS=teste123
+            - RABBITMQ_ERLANG_COOKIE=teste123
+        networks:
+            - netcreateuser
+        ports:
+            - 15672:15672
+            - 5673:5673
+        healthcheck:
+            test: ["CMD", "rabbitmqctl", "status"]
+            interval: 10s
+            timeout: 10s
+            retries: 3
+
+    createuser:
+        container_name: createuseruat
+        build:
+            context: ./
+            dockerfile: src/Dockerfile
+        command: sh -c "sleep 30 && dotnet run"
+        ports:
+            - 8080:80
+        environment:
+            - ASPNETCORE_ENVIRONMENT=uat
+        networks:
+            - netcreateuser
+        depends_on: 
+            mysql:
+                condition: service_healthy
+            rabbitmq:
+                condition: service_healthy
+    
+    workerconsumer:
+        container_name: workerconsumer
+        build:
+            context: ./
+            dockerfile: consumer/Dockerfile
+        command: sh -c "sleep 30 && dotnet run"
+        environment:
+            - ASPNETCORE_ENVIRONMENT=uat
+        networks:
+            - netcreateuser
+        depends_on: 
+            mysql:
+                condition: service_healthy
+            rabbitmq:
+                condition: service_healthy
+
+
+
+networks:
+    netcreateuser:
+        driver: bridge

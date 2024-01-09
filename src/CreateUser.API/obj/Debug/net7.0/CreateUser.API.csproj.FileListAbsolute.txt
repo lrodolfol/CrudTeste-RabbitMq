@@ -64,3 +64,4 @@ C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.API\obj\Debug
 C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.API\obj\Debug\net7.0\CreateUser.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.API\bin\Debug\net7.0\Serilog.dll
 C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.API\bin\Debug\net7.0\appsettings.uat.json

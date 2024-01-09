@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "e55n6wh0Ch4vNpIeuUrNtCz9s1h9Br6CDCvlIVjwNwTy43tk3MVS5YvkNMiTD2SzlQ8D65c+QEOzdpO8s/gnWA==",
+  "dgSpecHash": "kzTnqvWVt9tZhnSlo+hmvjjduvowHXmXJGrbQEgfyETgLqosoQtivXZUOjWHRB3Kn1eU8Uh+zmqep7f4nad2/w==",
   "success": true,
   "projectFilePath": "C:\\Users\\rodolfo.jesus\\Documents\\Csharp\\CreateuUser\\src\\CreateUser.API\\CreateUser.API.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\rodolfo.jesus\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\rodolfo.jesus\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\rodolfo.jesus\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\rodolfo.jesus\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
     "C:\\Users\\rodolfo.jesus\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\rodolfo.jesus\\.nuget\\packages\\mysql.data\\8.2.0\\mysql.data.8.2.0.nupkg.sha512",
     "C:\\Users\\rodolfo.jesus\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",

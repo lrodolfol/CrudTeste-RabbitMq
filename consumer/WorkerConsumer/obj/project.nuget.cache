@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JBhLsWBBYvdNYp+/c9I8Pu8g7KghgYr7k0xjVUmHnTzO1/lENCvJSc/OtnlsX8SfisoAdpJ0OVQtSW3I6XwEgw==",
+  "dgSpecHash": "26rmSk189Xa3aJt6qmw8TmWGM8ZXprWNlPBkTdShAQROEHwUzEH5REWx7myLMurEYMaa14Iqc8J73nuCsTmCyQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\rodolfo.jesus\\Documents\\Csharp\\CreateuUser\\consumer\\WorkerConsumer\\WorkerCreateUserConsumer.csproj",
   "expectedPackageFiles": [
@@ -29,6 +29,7 @@
     "C:\\Users\\rodolfo.jesus\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
     "C:\\Users\\rodolfo.jesus\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\7.0.0\\microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
     "C:\\Users\\rodolfo.jesus\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\rodolfo.jesus\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
     "C:\\Users\\rodolfo.jesus\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
     "C:\\Users\\rodolfo.jesus\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512",
     "C:\\Users\\rodolfo.jesus\\.nuget\\packages\\serilog.sinks.console\\5.0.1\\serilog.sinks.console.5.0.1.nupkg.sha512",

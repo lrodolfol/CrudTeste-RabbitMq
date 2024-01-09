@@ -23,7 +23,7 @@ public class User : Entitie
 
     public bool IsValid()
     {
-        if (string.IsNullOrEmpty(Email.Address) || string.IsNullOrEmpty(Document.Number) || string.IsNullOrEmpty(Phone.Number) || string.IsNullOrEmpty(Name))
+        if (string.IsNullOrEmpty(Document.Number) || string.IsNullOrEmpty(Phone.Number) || string.IsNullOrEmpty(Name))
             return false;
 
         return true;

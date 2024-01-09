@@ -47,3 +47,4 @@ C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\consumer\WorkerConsumer\obj\
 C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\consumer\WorkerConsumer\obj\Debug\net7.0\ref\WorkerCreateUserConsumer.dll
 C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\consumer\WorkerConsumer\bin\Debug\net7.0\Serilog.dll
 C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\consumer\WorkerConsumer\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\consumer\WorkerConsumer\bin\Debug\net7.0\appsettings.uat.json

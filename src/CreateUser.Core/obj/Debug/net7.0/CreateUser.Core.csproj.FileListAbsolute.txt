@@ -9,3 +9,4 @@ C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Core\obj\Debu
 C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Core\obj\Debug\net7.0\refint\CreateUser.Core.dll
 C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Core\obj\Debug\net7.0\CreateUser.Core.pdb
 C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Core\obj\Debug\net7.0\ref\CreateUser.Core.dll
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Core\obj\Debug\net7.0\CreateUser.Core.csproj.AssemblyReference.cache

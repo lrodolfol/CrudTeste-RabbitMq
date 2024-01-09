@@ -4,12 +4,9 @@ using System.Text;
 using Microsoft.Extensions.Hosting;
 using CreateUser.Infrastructure.MessageBrocker;
 using Microsoft.Extensions.Configuration;
-using System.Configuration;
 using System.Text.Json;
 using CreateUser.Core.Entities;
 using CreateUser.Core.Services;
-using System.Security.Permissions;
-using CreateUser.Core.Exceptions;
 using Serilog;
 
 namespace CreateUser.Infrastructure;
@@ -28,6 +25,8 @@ public class RabbitMqConsumerReply : BackgroundService
         _logger = logger;
 
         SetDefaultConfigs();
+
+        _logger.Information($"Try connection with {_defaultConfigs.HostName}");
 
         var factory = new ConnectionFactory()
         {
