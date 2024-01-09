@@ -1,0 +1,11 @@
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Core\obj\Debug\net7.0\CreateUser.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Core\obj\Debug\net7.0\CreateUser.Core.AssemblyInfoInputs.cache
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Core\obj\Debug\net7.0\CreateUser.Core.AssemblyInfo.cs
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Core\obj\Debug\net7.0\CreateUser.Core.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Core\bin\Debug\net7.0\CreateUser.Core.deps.json
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Core\bin\Debug\net7.0\CreateUser.Core.dll
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Core\bin\Debug\net7.0\CreateUser.Core.pdb
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Core\obj\Debug\net7.0\CreateUser.Core.dll
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Core\obj\Debug\net7.0\refint\CreateUser.Core.dll
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Core\obj\Debug\net7.0\CreateUser.Core.pdb
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Core\obj\Debug\net7.0\ref\CreateUser.Core.dll

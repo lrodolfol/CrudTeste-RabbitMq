@@ -1,0 +1,15 @@
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Infrastructure\obj\Debug\net7.0\CreateUser.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Infrastructure\obj\Debug\net7.0\CreateUser.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Infrastructure\obj\Debug\net7.0\CreateUser.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Infrastructure\obj\Debug\net7.0\CreateUser.Infrastructure.AssemblyInfo.cs
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Infrastructure\obj\Debug\net7.0\CreateUser.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Infrastructure\bin\Debug\net7.0\CreateUser.Infrastructure.deps.json
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Infrastructure\bin\Debug\net7.0\CreateUser.Infrastructure.dll
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Infrastructure\bin\Debug\net7.0\CreateUser.Infrastructure.pdb
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Infrastructure\bin\Debug\net7.0\CreateUser.Core.dll
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Infrastructure\bin\Debug\net7.0\CreateUser.Core.pdb
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Infrastructure\obj\Debug\net7.0\CreateUser.Infrastructure.csproj.CopyComplete
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Infrastructure\obj\Debug\net7.0\CreateUser.Infrastructure.dll
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Infrastructure\obj\Debug\net7.0\refint\CreateUser.Infrastructure.dll
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Infrastructure\obj\Debug\net7.0\CreateUser.Infrastructure.pdb
+C:\Users\rodolfo.jesus\Documents\Csharp\CreateuUser\src\CreateUser.Infrastructure\obj\Debug\net7.0\ref\CreateUser.Infrastructure.dll
