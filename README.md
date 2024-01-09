@@ -3,7 +3,7 @@
 
 Repostory for teste some definitions with rabbitmq using minimal api
 
-queue and exchange with binds and deadletter
+queue and exchange with binds, deadletter and rpc
 
 
 
